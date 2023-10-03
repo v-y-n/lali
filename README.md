@@ -2,6 +2,8 @@
 
 Lali is a simple anime lists manager that stores your lists locally, but with the ability to use online services (e.g AniList) as source for adding animes to your local lists.
 
+![image](https://github.com/notvyn/lali/assets/146759586/ee6005d6-a5e0-48bc-921e-db4bb24aab43)
+
 
 *Lali is an acronym for **L**ocal **A**nime **Li**sts*
 
